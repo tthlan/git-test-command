@@ -1,2 +1,2 @@
 add e1
-update main e1
+update team 1
